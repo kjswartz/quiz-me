@@ -238,5 +238,133 @@
   {
     "question": "What should a remote pilot do to ensure safe drone operations during poor visibility?\nA. Use a thermal camera\nB. Increase altitude\nC. Ensure line-of-sight is maintained\nD. Use the drone's GPS system for navigation",
     "answer": "c"
+  },
+  {
+    "question": "What is the maximum BAC for alcohol?\n\na. 0.02\nb. 0.04\nc. 0.08\nd. 0.10",
+    "answer": "b"
+  },
+  {
+    "question": "At what weight must a drone be above to require registration?\n\na. 0.45 lbs\nb. 0.55 lbs\nc. 0.75 lbs\nd. 1.00 lbs",
+    "answer": "b"
+  },
+  {
+    "question": "How many drones can you fly at the same time?\n\na. 1\nb. 2\nc. 3\nd. 4",
+    "answer": "a"
+  },
+  {
+    "question": "How many years must pass after a final narcotics conviction to apply for your Part 107?\n\na. 1 year\nb. 2 years\nc. 3 years\nd. 5 years",
+    "answer": "a"
+  },
+  {
+    "question": "What is the width and depth of a microburst?\n\na. 0.5 miles wide and 500’ deep\nb. 1 – 2 miles wide and 1,000’ deep\nc. 2 miles wide and 500’ deep\nd. 3 miles wide and 1,500’ deep",
+    "answer": "b"
+  },
+  {
+    "question": "What is the lapse rate per 1,000’ of altitude change?\n\na. 1 Celsius\nb. 2 Celsius\nc. 3 Celsius\nd. 4 Celsius",
+    "answer": "b"
+  },
+  {
+    "question": "At which AIS level does an injury require an accident report?\n\na. Level 1\nb. Level 2\nc. Level 3\nd. Level 4",
+    "answer": "c"
+  },
+  {
+    "question": "What is the minimum visibility required to fly?\n\na. 1 statute mile\nb. 2 statute miles\nc. 3 statute miles\nd. 5 statute miles",
+    "answer": "c"
+  },
+  {
+    "question": "What is the distance you must be able to see anti-collision lighting?\n\na. 1 statute mile\nb. 2 statute miles\nc. 3 statute miles\nd. 5 statute miles",
+    "answer": "c"
+  },
+  {
+    "question": "How long is a drone registration active for?\n\na. 1 year\nb. 2 years\nc. 3 years\nd. 5 years",
+    "answer": "c"
+  },
+  {
+    "question": "How many hours since last alcohol consumption must pass before flying?\n\na. 4 hours\nb. 6 hours\nc. 8 hours\nd. 10 hours",
+    "answer": "c"
+  },
+  {
+    "question": "What is the maximum number of days to file an FAA accident report?\n\na. 5 days\nb. 10 days\nc. 15 days\nd. 30 days",
+    "answer": "b"
+  },
+  {
+    "question": "At what age can a person register a drone?\n\na. 10 years\nb. 13 years\nc. 16 years\nd. 18 years",
+    "answer": "b"
+  },
+  {
+    "question": "What is the maximum number of days to update your drone registration if your contact details change?\n\na. 7 days\nb. 10 days\nc. 14 days\nd. 30 days",
+    "answer": "c"
+  },
+  {
+    "question": "How long do you have to cancel your drone registration if it is sold or destroyed?\n\na. 7 days\nb. 14 days\nc. 30 days\nd. 90 days",
+    "answer": "b"
+  },
+  {
+    "question": "At what age can a person apply for a Remote Pilots Certificate?\n\na. 14 years\nb. 16 years\nc. 18 years\nd. 21 years",
+    "answer": "b"
+  },
+  {
+    "question": "How long before recurrent training must be taken?\n\na. 6 months\nb. 12 months\nc. 24 months\nd. 36 months",
+    "answer": "c"
+  },
+  {
+    "question": "What is the standard pressure in inches of mercury at sea level?\n\na. 28.92Hg\nb. 29.92Hg\nc. 30.92Hg\nd. 31.92Hg",
+    "answer": "b"
+  },
+  {
+    "question": "How many minutes before and after sunrise/sunset can you fly if you have anti-collision lights?\n\na. 15 minutes\nb. 30 minutes\nc. 45 minutes\nd. 60 minutes",
+    "answer": "b"
+  },
+  {
+    "question": "How many days do you have to notify the FAA if you change your address?\n\na. 15 days\nb. 30 days\nc. 45 days\nd. 60 days",
+    "answer": "b"
+  },
+  {
+    "question": "At what bank angle does load factor (G units) start to rise significantly?\n\na. 30 degrees\nb. 45 degrees\nc. 60 degrees\nd. 75 degrees",
+    "answer": "b"
+  },
+  {
+    "question": "At what angle do manned aircraft enter the traffic pattern of airports?\n\na. 15 degrees\nb. 30 degrees\nc. 45 degrees\nd. 60 degrees",
+    "answer": "c"
+  },
+  {
+    "question": "What is the max weight of a drone flown under Part 107?\n\na. 50 lbs\nb. 55 lbs\nc. 60 lbs\nd. 65 lbs",
+    "answer": "b"
+  },
+  {
+    "question": "What is the estimated time the FAA requires to process a Part 107 waiver?\n\na. 30 days\nb. 60 days\nc. 90 days\nd. 120 days",
+    "answer": "c"
+  },
+  {
+    "question": "What is the Part 107 speed limit for drones?\n\na. 50 MPH\nb. 75 MPH\nc. 100 MPH\n\nd. 125 MPH",
+    "answer": "c"
+  },
+  {
+    "question": "What is the MULTICOM frequency for self-announce procedures?\n\na. 121.5\nb. 122.9\nc. 123.5\nd. 124.7",
+    "answer": "b"
+  },
+  {
+    "question": "What is the maximum radius you can fly from the ground or ground objects?\n\na. 200 feet\nb. 400 feet\nc. 600 feet\nd. 800 feet",
+    "answer": "b"
+  },
+  {
+    "question": "What is the minimum distance that must be maintained under a cloud?\n\na. 200 feet\nb. 500 feet\nc. 1,000 feet\nd. 1,500 feet",
+    "answer": "b"
+  },
+  {
+    "question": "At what amount of damage must you report to the FAA?\n\na. $100\nb. $300\nc. $500\nd. $1,000",
+    "answer": "c"
+  },
+  {
+    "question": "What is the typical pattern altitude for airports?\n\na. 500 feet\nb. 1,000 feet\nc. 1,500 feet\nd. 2,000 feet",
+    "answer": "b"
+  },
+  {
+    "question": "What is the altitude range for Military Training Routes (MTRs) with 3 numbers?\n\na. Below 1,500’ AGL\nb. Above 1,500’ AGL\nc. Between 1,000’ and 2,000’ AGL\nd. Between 2,000’ and 5,000’ AGL",
+    "answer": "b"
+  },
+  {
+    "question": "What is the minimum distance that must be maintained horizontally in front of a cloud?\n\na. 500 feet\nb. 1,000 feet\nc. 2,000 feet\nd. 5,000 feet",
+    "answer": "c"
   }
 ]
