@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"math/rand"
 	"os"
 	"strings"
@@ -18,7 +17,7 @@ type Question struct {
 
 // loadQuestions loads questions from the JSON file
 func loadQuestions(filename string) ([]Question, error) {
-	file, err := ioutil.ReadFile(filename)
+	file, err := os.ReadFile(filename)
 	if err != nil {
 		return nil, err
 	}
@@ -34,8 +33,8 @@ func loadQuestions(filename string) ([]Question, error) {
 
 // getRandomQuestion selects a random question from the list
 func getRandomQuestion(questions []Question) Question {
-	rand.Seed(time.Now().UnixNano())
-	return questions[rand.Intn(len(questions))]
+	r := rand.New(rand.NewSource(time.Now().UnixNano()))
+	return questions[r.Intn(len(questions))]
 }
 
 func main() {
