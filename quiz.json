@@ -1,122 +1,242 @@
 [
   {
-    "question": "1. What is the maximum weight for a drone to be considered a small unmanned aircraft under Part 107?\nA. 10 lbs\nB. 55 lbs\nC. 60 lbs\nD. 100 lbs",
+    "question": "What is the maximum weight for a drone to be considered a small unmanned aircraft under Part 107?\nA. 10 lbs\nB. 55 lbs\nC. 60 lbs\nD. 100 lbs",
     "answer": "b"
   },
   {
-    "question": "2. What is the primary purpose of a remote pilot's preflight inspection?\nA. To ensure that the drone is properly charged\nB. To ensure the drone is safe for operation\nC. To test the radio controller\nD. To check the weather forecast",
+    "question": "What is the primary purpose of a remote pilot's preflight inspection?\nA. To ensure that the drone is properly charged\nB. To ensure the drone is safe for operation\nC. To test the radio controller\nD. To check the weather forecast",
     "answer": "b"
   },
   {
-    "question": "3. Under Part 107, how high can you fly a drone?\nA. 100 feet\nB. 200 feet\nC. 400 feet\nD. 1000 feet",
+    "question": "Under Part 107, how high can you fly a drone?\nA. 100 feet\nB. 200 feet\nC. 400 feet\nD. 1000 feet",
     "answer": "c"
   },
   {
-    "question": "4. Which of the following is not a requirement for a Remote Pilot Certificate?\nA. Be at least 17 years old\nB. Be a U.S. citizen\nC. Pass an FAA-approved aeronautical knowledge test\nD. Be able to read, speak, and understand English",
+    "question": "Which of the following is not a requirement for a Remote Pilot Certificate?\nA. Be at least 17 years old\nB. Be a U.S. citizen\nC. Pass an FAA-approved aeronautical knowledge test\nD. Be able to read, speak, and understand English",
     "answer": "b"
   },
   {
-    "question": "5. When flying a drone in controlled airspace, what is required?\nA. Authorization from the FAA\nB. A special pilot's license\nC. A transponder on the drone\nD. A weather report",
+    "question": "When flying a drone in controlled airspace, what is required?\nA. Authorization from the FAA\nB. A special pilot's license\nC. A transponder on the drone\nD. A weather report",
     "answer": "a"
   },
   {
-    "question": "6. What is the maximum allowable blood alcohol concentration (BAC) for a remote pilot to operate a drone?\nA. 0.00%\nB. 0.04%\nC. 0.08%\nD. 0.10%",
+    "question": "What is the maximum allowable blood alcohol concentration (BAC) for a remote pilot to operate a drone?\nA. 0.00%\nB. 0.04%\nC. 0.08%\nD. 0.10%",
     "answer": "b"
   },
   {
-    "question": "7. When is it permissible to fly a drone at night under Part 107?\nA. Only with a special waiver\nB. Always\nC. Never\nD. When the drone has a special night-vision camera",
+    "question": "When is it permissible to fly a drone at night under Part 107?\nA. Only with a special waiver\nB. Always\nC. Never\nD. When the drone has a special night-vision camera",
     "answer": "a"
   },
   {
-    "question": "8. What is the main purpose of the Remote Pilot Certificate?\nA. To demonstrate knowledge of drone operations\nB. To qualify pilots for commercial flight\nC. To ensure drone safety\nD. To give permission to fly anywhere",
+    "question": "What is the main purpose of the Remote Pilot Certificate?\nA. To demonstrate knowledge of drone operations\nB. To qualify pilots for commercial flight\nC. To ensure drone safety\nD. To give permission to fly anywhere",
     "answer": "c"
   },
   {
-    "question": "9. If a drone pilot is unable to see the drone in the air, what must they do?\nA. Continue flying\nB. Use a second observer\nC. Call the FAA\nD. Land immediately",
+    "question": "If a drone pilot is unable to see the drone in the air, what must they do?\nA. Continue flying\nB. Use a second observer\nC. Call the FAA\nD. Land immediately",
     "answer": "b"
   },
   {
-    "question": "10. What is the meaning of 'line-of-sight' in drone operations?\nA. The drone must always remain within 500 feet of the operator\nB. The drone must be visible to the operator at all times\nC. The operator must use binoculars\nD. The operator must be able to hear the drone",
+    "question": "What is the meaning of 'line-of-sight' in drone operations?\nA. The drone must always remain within 500 feet of the operator\nB. The drone must be visible to the operator at all times\nC. The operator must use binoculars\nD. The operator must be able to hear the drone",
     "answer": "b"
   },
   {
-    "question": "11. Which of the following is prohibited under Part 107?\nA. Flying in controlled airspace with approval\nB. Flying over people\nC. Flying with a remote control that is not within visual line-of-sight\nD. Flying at night with special lighting",
+    "question": "Which of the following is prohibited under Part 107?\nA. Flying in controlled airspace with approval\nB. Flying over people\nC. Flying with a remote control that is not within visual line-of-sight\nD. Flying at night with special lighting",
     "answer": "b"
   },
   {
-    "question": "12. What is the maximum permissible altitude for a drone flying near a structure?\nA. 400 feet above the structure\nB. 200 feet above the structure\nC. 400 feet above the ground level\nD. 1000 feet above the structure",
+    "question": "What is the maximum permissible altitude for a drone flying near a structure?\nA. 400 feet above the structure\nB. 200 feet above the structure\nC. 400 feet above the ground level\nD. 1000 feet above the structure",
     "answer": "a"
   },
   {
-    "question": "13. Which of the following is required to operate a drone commercially?\nA. A Remote Pilot Certificate\nB. A private pilot's license\nC. A specific type of insurance\nD. A commercial flight certification",
+    "question": "Which of the following is required to operate a drone commercially?\nA. A Remote Pilot Certificate\nB. A private pilot's license\nC. A specific type of insurance\nD. A commercial flight certification",
     "answer": "a"
   },
   {
-    "question": "14. What is the minimum age requirement to obtain a Remote Pilot Certificate?\nA. 16 years old\nB. 18 years old\nC. 21 years old\nD. 17 years old",
+    "question": "What is the minimum age requirement to obtain a Remote Pilot Certificate?\nA. 16 years old\nB. 18 years old\nC. 21 years old\nD. 17 years old",
     "answer": "d"
   },
   {
-    "question": "15. Under Part 107, which of the following is a requirement for operating a drone in controlled airspace?\nA. Approval from the FAA\nB. Use of a transponder\nC. A spotter with binoculars\nD. Drone must weigh less than 10 lbs",
+    "question": "Under Part 107, which of the following is a requirement for operating a drone in controlled airspace?\nA. Approval from the FAA\nB. Use of a transponder\nC. A spotter with binoculars\nD. Drone must weigh less than 10 lbs",
     "answer": "a"
   },
   {
-    "question": "16. Which of the following weather conditions would likely cause a delay or cancellation of a drone operation?\nA. Clear skies with no clouds\nB. Winds exceeding the maximum allowable limits\nC. Light rain\nD. A few scattered clouds",
+    "question": "Which of the following weather conditions would likely cause a delay or cancellation of a drone operation?\nA. Clear skies with no clouds\nB. Winds exceeding the maximum allowable limits\nC. Light rain\nD. A few scattered clouds",
     "answer": "b"
   },
   {
-    "question": "17. What is the definition of 'aeronautical decision-making'?\nA. Choosing the best route to the destination\nB. The process of evaluating the weather forecast\nC. The ability to make safe decisions in drone operations\nD. Choosing the correct drone model for the mission",
+    "question": "What is the definition of 'aeronautical decision-making'?\nA. Choosing the best route to the destination\nB. The process of evaluating the weather forecast\nC. The ability to make safe decisions in drone operations\nD. Choosing the correct drone model for the mission",
     "answer": "c"
   },
   {
-    "question": "18. What must a remote pilot do before each flight?\nA. Check the weight of the drone\nB. Perform a preflight inspection\nC. Confirm the drone's GPS signal strength\nD. Check the weather report only",
+    "question": "What must a remote pilot do before each flight?\nA. Check the weight of the drone\nB. Perform a preflight inspection\nC. Confirm the drone's GPS signal strength\nD. Check the weather report only",
     "answer": "b"
   },
   {
-    "question": "19. In the event of an emergency during flight, what should the remote pilot do first?\nA. Contact the nearest control tower\nB. Attempt to land the drone safely\nC. Call for help\nD. Continue flying to the nearest airport",
+    "question": "In the event of an emergency during flight, what should the remote pilot do first?\nA. Contact the nearest control tower\nB. Attempt to land the drone safely\nC. Call for help\nD. Continue flying to the nearest airport",
     "answer": "b"
   },
   {
-    "question": "20. What does the term 'CTR' refer to in aviation?\nA. Control Tower Radar\nB. Controlled Airspace\nC. Clear Traffic Route\nD. Centerline Transmitter",
+    "question": "What does the term 'CTR' refer to in aviation?\nA. Control Tower Radar\nB. Controlled Airspace\nC. Clear Traffic Route\nD. Centerline Transmitter",
     "answer": "b"
   },
   {
-    "question": "21. Which of the following statements is true regarding weather conditions for flying a drone?\nA. Drones can be flown in all weather conditions\nB. Drones should never be flown in high winds\nC. Drones can only be flown during daylight hours\nD. Drones can be flown only in cloudy weather",
+    "question": "Which of the following statements is true regarding weather conditions for flying a drone?\nA. Drones can be flown in all weather conditions\nB. Drones should never be flown in high winds\nC. Drones can only be flown during daylight hours\nD. Drones can be flown only in cloudy weather",
     "answer": "b"
   },
   {
-    "question": "22. What is the minimum distance a drone must maintain from people who are not directly participating in the operation?\nA. 50 feet\nB. 100 feet\nC. 200 feet\nD. 500 feet",
+    "question": "What is the minimum distance a drone must maintain from people who are not directly participating in the operation?\nA. 50 feet\nB. 100 feet\nC. 200 feet\nD. 500 feet",
     "answer": "c"
   },
   {
-    "question": "23. Which of the following conditions must be met for a drone to operate in Class B airspace?\nA. The drone must have an approved radar\nB. The remote pilot must have prior approval\nC. The drone must be able to climb faster than 200 feet per minute\nD. The drone must have a GPS system",
+    "question": "Which of the following conditions must be met for a drone to operate in Class B airspace?\nA. The drone must have an approved radar\nB. The remote pilot must have prior approval\nC. The drone must be able to climb faster than 200 feet per minute\nD. The drone must have a GPS system",
     "answer": "b"
   },
   {
-    "question": "24. What does 'visual line-of-sight' (VLOS) mean for drone operations?\nA. The operator must see the drone at all times during the flight\nB. The drone must be equipped with a camera\nC. The operator must only see the drone during takeoff\nD. The operator must see the drone in flight through a monitor",
+    "question": "What does 'visual line-of-sight' (VLOS) mean for drone operations?\nA. The operator must see the drone at all times during the flight\nB. The drone must be equipped with a camera\nC. The operator must only see the drone during takeoff\nD. The operator must see the drone in flight through a monitor",
     "answer": "a"
   },
   {
-    "question": "25. What should a remote pilot do if a drone loses communication with the controller during flight?\nA. Keep flying the drone\nB. Immediately land the drone\nC. Fly the drone until battery power is low\nD. Contact the FAA",
+    "question": "What should a remote pilot do if a drone loses communication with the controller during flight?\nA. Keep flying the drone\nB. Immediately land the drone\nC. Fly the drone until battery power is low\nD. Contact the FAA",
     "answer": "b"
   },
   {
-    "question": "26. In the event of a drone accident, what must a remote pilot do?\nA. File a flight plan\nB. Report the incident to the FAA if required\nC. Check the weather conditions\nD. Check the drone's logbook",
+    "question": "In the event of a drone accident, what must a remote pilot do?\nA. File a flight plan\nB. Report the incident to the FAA if required\nC. Check the weather conditions\nD. Check the drone's logbook",
     "answer": "b"
   },
   {
-    "question": "27. Which of the following is a requirement for flying a drone at night?\nA. The drone must have external lighting visible for at least 3 miles\nB. The pilot must have a special night certification\nC. The drone must be equipped with a thermal camera\nD. The drone must be flown at a maximum of 200 feet",
+    "question": "Which of the following is a requirement for flying a drone at night?\nA. The drone must have external lighting visible for at least 3 miles\nB. The pilot must have a special night certification\nC. The drone must be equipped with a thermal camera\nD. The drone must be flown at a maximum of 200 feet",
     "answer": "a"
   },
   {
-    "question": "28. Under Part 107, which of the following is a prohibited operation?\nA. Flying over people without a waiver\nB. Flying near airports with proper authorization\nC. Flying in restricted airspace with a waiver\nD. Flying below 400 feet in Class G airspace",
+    "question": "Under Part 107, which of the following is a prohibited operation?\nA. Flying over people without a waiver\nB. Flying near airports with proper authorization\nC. Flying in restricted airspace with a waiver\nD. Flying below 400 feet in Class G airspace",
     "answer": "a"
   },
   {
-    "question": "29. How often must a remote pilot take a recurrent knowledge test to maintain their certification?\nA. Every year\nB. Every 2 years\nC. Every 3 years\nD. Every 5 years",
+    "question": "How often must a remote pilot take a recurrent knowledge test to maintain their certification?\nA. Every year\nB. Every 2 years\nC. Every 3 years\nD. Every 5 years",
     "answer": "b"
   },
   {
-    "question": "30. What is the primary purpose of the preflight briefing?\nA. To discuss the flight plan\nB. To ensure the drone's camera is working\nC. To check for traffic congestion\nD. To review emergency procedures and roles",
+    "question": "What is the primary purpose of the preflight briefing?\nA. To discuss the flight plan\nB. To ensure the drone's camera is working\nC. To check for traffic congestion\nD. To review emergency procedures and roles",
     "answer": "d"
+  },
+  {
+    "question": "Under Part 107, what is the maximum speed a drone can fly?\nA. 100 mph\nB. 87 mph\nC. 60 mph\nD. 50 mph",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is NOT a requirement for obtaining a Remote Pilot Certificate?\nA. Passing an FAA-approved knowledge test\nB. Having a valid medical certificate\nC. Being at least 17 years old\nD. Being able to read, speak, and understand English",
+    "answer": "b"
+  },
+  {
+    "question": "What is the maximum allowable weight for a drone under Part 107?\nA. 50 lbs\nB. 55 lbs\nC. 60 lbs\nD. 70 lbs",
+    "answer": "b"
+  },
+  {
+    "question": "How often must a remote pilot pass a recurrent knowledge test?\nA. Every year\nB. Every 2 years\nC. Every 3 years\nD. Every 5 years",
+    "answer": "b"
+  },
+  {
+    "question": "If a remote pilot needs to fly a drone in restricted airspace, what must they do?\nA. Apply for a waiver\nB. Notify the FAA\nC. Wait for clearance from the control tower\nD. Fly only during the day",
+    "answer": "a"
+  },
+  {
+    "question": "What is the recommended maximum wind speed for drone operations?\nA. 10 mph\nB. 20 mph\nC. 25 mph\nD. 30 mph",
+    "answer": "b"
+  },
+  {
+    "question": "How high can a drone fly above the ground level in Class G airspace?\nA. 500 feet\nB. 1000 feet\nC. 400 feet\nD. 200 feet",
+    "answer": "c"
+  },
+  {
+    "question": "If a drone pilot has a visual impairment, can they still operate a drone under Part 107?\nA. Yes, with a waiver\nB. Yes, if they use corrective lenses\nC. No, they must pass a vision test\nD. No, they cannot fly",
+    "answer": "b"
+  },
+  {
+    "question": "What must be done if a drone flies beyond the operator's visual line of sight?\nA. The flight must be immediately stopped\nB. The drone must be brought back within line of sight\nC. The remote pilot must use a spotter\nD. The operator must switch to GPS control",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary responsibility of a remote pilot in command?\nA. To ensure the drone is within its operational limits\nB. To monitor the drone’s location using GPS\nC. To ensure the safety of the operation\nD. To record the flight data",
+    "answer": "c"
+  },
+  {
+    "question": "When should a remote pilot perform a preflight check?\nA. Only when the drone is new\nB. Before every flight\nC. Only after a crash\nD. Once a week",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following must be included in the preflight checklist?\nA. Inspect the weather conditions\nB. Verify the remote control batteries\nC. Confirm the drone's firmware is updated\nD. All of the above",
+    "answer": "d"
+  },
+  {
+    "question": "Under Part 107, what is the maximum permissible altitude for a drone in uncontrolled airspace (Class G)?\nA. 500 feet\nB. 1000 feet\nC. 200 feet\nD. 400 feet",
+    "answer": "d"
+  },
+  {
+    "question": "When operating in Class B, C, D, or E airspace, what is required?\nA. A special FAA certification\nB. A waiver for operations\nC. Prior authorization from the FAA\nD. No additional requirements",
+    "answer": "c"
+  },
+  {
+    "question": "What should a remote pilot do if they are unsure of the weather conditions during a flight?\nA. Continue flying until they reach a safe location\nB. Cancel the flight and reschedule\nC. Use radar to assess the weather\nD. Only rely on the drone's weather sensors",
+    "answer": "b"
+  },
+  {
+    "question": "How should a remote pilot handle a situation when the drone loses GPS signal?\nA. Immediately land the drone\nB. Use the drone's manual controls to return\nC. Wait for the GPS signal to reconnect\nD. Continue flying and monitor the situation",
+    "answer": "b"
+  },
+  {
+    "question": "What is the first step in assessing whether to fly a drone in a particular area?\nA. Verify the drone's battery level\nB. Check for nearby airports and airspace restrictions\nC. Confirm the drone's maximum speed\nD. Verify the weather conditions",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is a prohibited activity under Part 107?\nA. Flying at night with proper lighting\nB. Flying a drone over people not involved in the operation\nC. Flying in Class G airspace\nD. Flying during the day in low visibility conditions",
+    "answer": "b"
+  },
+  {
+    "question": "In the event of an accident, which of the following must a remote pilot report to the FAA?\nA. Only if the drone causes damage to property\nB. Only if the drone causes injury to people\nC. All accidents resulting in damage to property or injury\nD. Only accidents that occur near controlled airspace",
+    "answer": "c"
+  },
+  {
+    "question": "What is the primary reason for requiring remote pilots to be familiar with airspace classifications?\nA. To avoid interfering with manned aircraft operations\nB. To determine the maximum weight for their drone\nC. To ensure compliance with FAA weight restrictions\nD. To avoid congested areas with other drones",
+    "answer": "a"
+  },
+  {
+    "question": "What should a remote pilot do if they encounter an emergency during flight?\nA. Immediately land the drone\nB. Continue the flight to complete the mission\nC. Use the drone’s automated emergency procedures\nD. Contact air traffic control",
+    "answer": "a"
+  },
+  {
+    "question": "What is the best way to maintain situational awareness during a drone flight?\nA. Always keep the drone within line of sight\nB. Use only automated flight controls\nC. Rely on the drone's camera feed\nD. Use a second remote control",
+    "answer": "a"
+  },
+  {
+    "question": "Under what circumstances can a drone operator fly at night?\nA. Only in rural areas\nB. If the drone has night-vision capabilities\nC. Only with a waiver and appropriate lighting\nD. If the operator has a special night certification",
+    "answer": "c"
+  },
+  {
+    "question": "What does the term ‘no-fly zone’ refer to?\nA. Areas where drones cannot operate due to safety or security concerns\nB. Areas where drones are allowed to fly only with a waiver\nC. Areas where the weather is too dangerous to fly\nD. Areas where drones can fly without any restrictions",
+    "answer": "a"
+  },
+  {
+    "question": "What is the maximum allowable blood alcohol concentration (BAC) for a drone operator under Part 107?\nA. 0.02%\nB. 0.04%\nC. 0.08%\nD. 0.10%",
+    "answer": "b"
+  },
+  {
+    "question": "What should a remote pilot do if they lose control of the drone during flight?\nA. Try to regain control and continue the mission\nB. Immediately perform an emergency landing\nC. Contact the FAA for assistance\nD. Wait for the drone to reconnect to the controller",
+    "answer": "b"
+  },
+  {
+    "question": "Which of the following is required for operating a drone in Class B airspace?\nA. A special remote pilot's certification\nB. A waiver from the FAA\nC. Prior authorization from the FAA\nD. The drone must weigh less than 2 lbs",
+    "answer": "c"
+  },
+  {
+    "question": "What is the purpose of the NOTAM system in aviation?\nA. To provide real-time weather updates\nB. To notify pilots of airspace restrictions and hazards\nC. To track drone location data\nD. To confirm the remote pilot's certification",
+    "answer": "b"
+  },
+  {
+    "question": "What is the maximum weight limit for a drone operating under Part 107 regulations?\nA. 55 lbs\nB. 100 lbs\nC. 60 lbs\nD. 70 lbs",
+    "answer": "a"
+  },
+  {
+    "question": "What should a remote pilot do to ensure safe drone operations during poor visibility?\nA. Use a thermal camera\nB. Increase altitude\nC. Ensure line-of-sight is maintained\nD. Use the drone's GPS system for navigation",
+    "answer": "c"
   }
 ]
