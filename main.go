@@ -38,8 +38,17 @@ func getRandomQuestion(questions []Question) Question {
 }
 
 func main() {
+	// Check if the file path argument is provided
+	if len(os.Args) < 2 {
+		fmt.Println("Usage: quiz-me <path/to/questions.json>")
+		os.Exit(1)
+	}
+
+    	// Get the file path from the first positional argument
+    	filePath := os.Args[1]
+	
 	// Load questions from the quiz.json file
-	questions, err := loadQuestions("/Users/kyle/Documents/Code/go/quiz-me/quiz.json")
+	questions, err := loadQuestions(filePath)
 	if err != nil {
 		fmt.Println("Error loading questions:", err)
 		os.Exit(1)
